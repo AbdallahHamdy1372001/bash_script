@@ -1,1 +1,1 @@
-# bash_script_calculator
+# bash_script
